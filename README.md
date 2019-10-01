@@ -1,7 +1,6 @@
 # HMMbased-ViewportPrediction
-HMM based Viewport Prediction Algorithm
-This HMM based viewport prediction algorithm was written by Yunqiao Li and Shaowei Xie (2019), from Shanghai Jiao Tong University. See the paper "Perceptually Optimized Quality Adaptation of
-Viewport-Dependent Omnidirectional Video Streaming" for more details.
+HMM based Viewport Prediction Algorithm.
+This HMM based viewport prediction algorithm was written by Yunqiao Li and Shaowei Xie (2019), from Shanghai Jiao Tong University. See the paper "Perceptually Optimized Quality Adaptation of Viewport-Dependent Omnidirectional Video Streaming" for more details.
 
 1) heatCenter.m: get the center of most salient areas.
 2) velocityAve.m: get the average velocities (Output Tokens), as the as the hidden state of every T frames.
